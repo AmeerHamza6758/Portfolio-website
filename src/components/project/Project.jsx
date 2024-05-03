@@ -18,11 +18,12 @@ const Project = () => {
                     <div className="project-item">
                         <div className="project-info">
                             <h1>Project 1</h1>
-                            <h2>Dark mode and access data from Github</h2>
+                            <h2>YAK SPORT Web App</h2>
                             <p>
-                                Embark on a personalized digital journey with my React-based web app, effortlessly retrieving your GitHub data. Seamlessly integrated with the GitHub API, it allows you to fetch and display repositories effortlessly. Elevate your experience with a customizable dark mode for enhanced aesthetics and user comfort. Effortlessly navigate your GitHub world, toggling between light and dark modes to suit your preferences. Experience the perfect blend of functionality and design in this tailored web app, making GitHub exploration engaging and visually pleasing.
-                            </p>
-                            <p />
+                                As a frontend developer I worked on YAK Sport that is an app for guests at Titanic Deluxe Lara and
+                                Titanic Beach Lara hotels, offering details on luxurious amenities like sports facilities, entertainment,
+                                and excursion booking for a memorable stay.
+                                 </p>
                         </div>
                         <div className="project-img">
                             <img src={pro1} alt="img" />
@@ -33,9 +34,9 @@ const Project = () => {
                             <h1>Prject 2</h1>
                             <h2>SCube pakistan</h2>
                             <p>
-                            I've crafted and built a website for SCube Pakistan, leveraging a blend of frontend and backend technologies. 
-                            On the frontend, I utilized React.js, Tailwind CSS, JavaScript (ES6), Swiper.js, AOS for scroll animations, 
-                            and implemented form validation. For the backend, I employed Node.js, Nest.js, and MySQL DB, integrating Passport.js for authentication and authorization.
+                                I've crafted and built a website for SCube Pakistan, leveraging a blend of frontend and backend technologies.
+                                On the frontend, I utilized React.js, Tailwind CSS, JavaScript (ES6), Swiper.js, AOS for scroll animations,
+                                and implemented form validation. For the backend, I employed Node.js, Nest.js, and MySQL DB, integrating Passport.js for authentication and authorization.
                             </p>
                         </div>
                         <div className="project-img">
@@ -47,14 +48,14 @@ const Project = () => {
                             <h1>Project 3</h1>
                             <h2>DZ Food Web App</h2>
                             <p>
-                            I've developed a fully functional food website, focusing on frontend development. I utilized React.js, CSS3, HTML5, and JavaScript (ES6), alongside Redux for state management.
-                             Authentication was implemented using Google Firebase. The website is fully responsive,
-                             ensuring seamless user experience across all screen sizes, and operates as a single-page application.
+                                I've developed a fully functional food website, focusing on frontend development. I utilized React.js, CSS3, HTML5, and JavaScript (ES6), alongside Redux for state management.
+                                Authentication was implemented using Google Firebase. The website is fully responsive,
+                                ensuring seamless user experience across all screen sizes, and operates as a single-page application.
                             </p>
                         </div>
                         <div className="project-img">
                             <figure>
-                            <img src={pro3} alt="img" />
+                                <img src={pro3} alt="img" />
                             </figure>
                         </div>
                     </div>
@@ -81,10 +82,10 @@ const Project = () => {
                             <h1>Project 5</h1>
                             <h2>Password generator</h2>
                             <p>
-                            As a React developer, I've created a password generator tool that's particularly useful for login portals.
-                             This tool is built using React.js and JavaScript (ES6). Users have the flexibility to select the range of characters they want in their passwords, including numbers, characters, and symbols. 
-                             Additionally, I've set minimum and maximum length constraints for the generated passwords. 
-                            Users can easily copy the generated password, ensuring they have access to strong and secure passwords.
+                                As a React developer, I've created a password generator tool that's particularly useful for login portals.
+                                This tool is built using React.js and JavaScript (ES6). Users have the flexibility to select the range of characters they want in their passwords, including numbers, characters, and symbols.
+                                Additionally, I've set minimum and maximum length constraints for the generated passwords.
+                                Users can easily copy the generated password, ensuring they have access to strong and secure passwords.
                             </p>
                         </div>
                         <div className="project-img">
