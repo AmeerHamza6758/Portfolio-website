@@ -5,6 +5,7 @@ import pro2 from '../../images/pro2.png'
 import pro3 from '../../images/pro3.png'
 import pro4 from '../../images/pro4.png'
 import pro5 from '../../images/pro5.png'
+import pro6 from '../../images/pro6.png'
 const Project = () => {
     return (
         <section id="projects">
@@ -23,21 +24,47 @@ const Project = () => {
                                 As a frontend developer I worked on YAK Sport that is an app for guests at Titanic Deluxe Lara and
                                 Titanic Beach Lara hotels, offering details on luxurious amenities like sports facilities, entertainment,
                                 and excursion booking for a memorable stay.
-                                 </p>
+                            </p> <br />
+
+                            <a style={{ color: '#ff8c00', fontSize: '14px' }} href='https://yaksport.com/'>Click here to Visit</a>
+
                         </div>
                         <div className="project-img">
                             <img src={pro1} alt="img" />
                         </div>
                     </div>
+
                     <div className="project-item">
                         <div className="project-info">
-                            <h1>Prject 2</h1>
+                            <h1>Project 2</h1>
+                            <h2>E-Commerce</h2>
+                            <p>
+                                As part of a collaborative effort with my team, I contributed to the development of this project as a frontend developer. Utilizing HTML, CSS, and React.js, we crafted a dynamic web application. To manage the application state efficiently, we implemented Redux.
+
+                                The project enables users to seamlessly add items to their cart, with all data persistently stored in local storage. As users add items, the application dynamically calculates and updates the total prices. We prioritized responsiveness, ensuring optimal user experience across all screen sizes.
+                            </p> <br />
+                            <a style={{ color: '#ff8c00', fontSize: '14px' }} href='http://naim.dk/shop'>Click here to Visit</a>
+
+                        </div>
+                        <div className="project-img">
+                            <figure>
+                                <img src={pro6} alt="img" />
+
+                            </figure>
+                        </div>
+
+                    </div>
+                    <div className="project-item">
+                        <div className="project-info">
+                            <h1>Prject 3</h1>
                             <h2>SCube pakistan</h2>
                             <p>
                                 I've crafted and built a website for SCube Pakistan, leveraging a blend of frontend and backend technologies.
                                 On the frontend, I utilized React.js, Tailwind CSS, JavaScript (ES6), Swiper.js, AOS for scroll animations,
                                 and implemented form validation. For the backend, I employed Node.js, Nest.js, and MySQL DB, integrating Passport.js for authentication and authorization.
-                            </p>
+                            </p> <br />
+                            <a style={{ color: '#ff8c00', fontSize: '14px' }} href='https://www.scubepk.com/'>Click here to Visit</a>
+
                         </div>
                         <div className="project-img">
                             <img src={pro2} alt="img" />
@@ -45,13 +72,15 @@ const Project = () => {
                     </div>
                     <div className="project-item">
                         <div className="project-info">
-                            <h1>Project 3</h1>
+                            <h1>Project 4</h1>
                             <h2>DZ Food Web App</h2>
                             <p>
                                 I've developed a fully functional food website, focusing on frontend development. I utilized React.js, CSS3, HTML5, and JavaScript (ES6), alongside Redux for state management.
                                 Authentication was implemented using Google Firebase. The website is fully responsive,
                                 ensuring seamless user experience across all screen sizes, and operates as a single-page application.
-                            </p>
+                            </p> <br />
+                            <a style={{ color: '#ff8c00', fontSize: '14px' }} href='https://danzeetech.com/user-dzfood/about'>Click here to Visit</a>
+
                         </div>
                         <div className="project-img">
                             <figure>
@@ -61,7 +90,7 @@ const Project = () => {
                     </div>
                     <div className="project-item">
                         <div className="project-info">
-                            <h1>Project 4</h1>
+                            <h1>Project 5</h1>
                             <h2>TODO </h2>
                             <p>
                                 Step into productivity with my elegantly crafted TODO app.
@@ -71,7 +100,9 @@ const Project = () => {
                                 providing a user-friendly platform to stay organized and focused.
                                 Experience the simplicity of task management as you prioritize and
                                 check off your goals, making every day a step closer to success.
-                            </p>
+                            </p> <br />
+                            <a style={{ color: '#ff8c00', fontSize: '14px' }} href='https://danzeetech.com/user-dzfood/about'>Click here to Visit</a>
+
                         </div>
                         <div className="project-img">
                             <img src={pro4} alt="img" />
@@ -79,14 +110,16 @@ const Project = () => {
                     </div>
                     <div className="project-item">
                         <div className="project-info">
-                            <h1>Project 5</h1>
+                            <h1>Project 6</h1>
                             <h2>Password generator</h2>
                             <p>
                                 As a React developer, I've created a password generator tool that's particularly useful for login portals.
                                 This tool is built using React.js and JavaScript (ES6). Users have the flexibility to select the range of characters they want in their passwords, including numbers, characters, and symbols.
                                 Additionally, I've set minimum and maximum length constraints for the generated passwords.
                                 Users can easily copy the generated password, ensuring they have access to strong and secure passwords.
-                            </p>
+                            </p> <br />
+                            <a style={{ color: '#ff8c00', fontSize: '14px' }} href='https://ameerhamzapass.netlify.app/'>Click here to Visit</a>
+
                         </div>
                         <div className="project-img">
                             <img src={pro5} alt="img" />

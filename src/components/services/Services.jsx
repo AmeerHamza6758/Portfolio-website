@@ -10,26 +10,24 @@ const Services = () => {
             <div className="services container">
                 <div className="service-top">
                     <h1 className="section-title">
-                        Ser<span>v</span>ices
+                        S<span>ki</span>lls
                     </h1>
                     <p>
-                        🚀 Welcome to Ameer Hamza Web Development! I'm Ameer Hamza, leading a
-                        passionate team in crafting cutting-edge web applications. 💻
-                        Specializing in both frontend and backend technologies, we ensure your
-                        digital presence is not only functional but visually captivating. Our
-                        client-centric approach prioritizes clear communication and transparency
-                        throughout the development process. 🌐 At Ameer Hamza Web Development,
-                        we stay at the forefront of web development trends, utilizing a
-                        comprehensive technology stack including React and Node.js. Join us in
-                        transforming your ideas into extraordinary digital experiences. 🤝 Let's build a future of digital excellence together! 🌈
+                        🚀Passionate about Frontend development,
+                        I thoroughly enjoy coding and crafting
+                        solutions that elevate user experiences.
+                        I've mastered &#x2611; React, &#x2611; Redux Toolkit &#x2611; JavaScript &#x2611; Tailwind CSS &#x2611; Ant Design &#x2611; MUI &#x2611; Responsive Designs || For Api Integration &#x2611; Rtk Query / Axios / Fetch /GraphQl || API Testing Tool &#x2611; Postman/Thunder client and
+                        integrated diverse libraries to enhance
+                        web app functionality and user
+                        interfaces. Join us in transforming your ideas into extraordinary digital experiences. 🤝 Let's build a future of digital excellence together! 🌈
                     </p>
                 </div>
                 <div className="service-bottom">
                     <div className="service-item">
                         <div className="icon">
-                            <img src={web1} alt='Web'/>
+                            <img src={web1} alt='Web' />
                             <h2>Responsive UI/UX Design</h2>
-                        </div> 
+                        </div>
                         <p>
                             As a React Frontend Developer, I specialize in crafting visually
                             stunning, responsive interfaces for seamless user experiences.
@@ -41,7 +39,7 @@ const Services = () => {
                     </div>
                     <div className="service-item">
                         <div className="icon">
-                            <img src={web2} alt='Web2'/>
+                            <img src={web2} alt='Web2' />
                             <h2>Component-Based Development</h2>
                         </div>
                         <p>
@@ -65,7 +63,7 @@ const Services = () => {
                     </div>
                     <div className="service-item">
                         <div className="icon">
-                            <img src={web4} alt='web'/>
+                            <img src={web4} alt='web' />
                             <h2>Collaborative Problem Solving</h2>
                         </div>
                         <p>
